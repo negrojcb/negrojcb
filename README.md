@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @negrojcb
+- 👋 Hi, I’m Juan Cruz Bonelli
 - 👀 I’m interested in learning frontend development
 - 🌱 I’m currently learning HTML, CSS
 - 💞️ I’m looking to collaborate on frontend development proyects
