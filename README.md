@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Juan Cruz Bonelli
 - 👀 I’m interested in learning frontend development
-- 🌱 I’m currently learning HTML, CSS
+- 🌱 I’m currently learning HTML, CSS, JavaScript and more
 - 💞️ I’m looking to collaborate on frontend development proyects
 
 <!---
