@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Juan Cruz Bonelli
+- Junior Full Stack Developer with a UX/UI background, interested in product, automation, and real-world problem solving.
 
 
 <!---
